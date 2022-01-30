@@ -1,0 +1,8 @@
+{
+	"scripts": {
+		"dev": "npx bittorrent-tracker"
+	},
+	"dependencies": {
+		"bittorrent-tracker": "^9.18.3"
+	}
+}
